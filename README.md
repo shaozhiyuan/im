@@ -6,4 +6,4 @@ In the project directory, you can run:
 
 Main technical stack :
 
-react + redux + react-redux + react-router + react-thunk + scss + postcss
+### `react + redux + react-redux + react-router + react-thunk + scss + postcss`
